@@ -1,77 +1,54 @@
 # 《敏捷开发实战记录14讲》
 
-> 14 篇敏捷研发实战文章，源自 15 年软件开发与带队实践。以真实案例讲透敏捷的价值观、Scrum、迭代、估算与工程实践。
+[![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+[![Language](https://img.shields.io/badge/Language-简体中文-orange.svg)]()
 
-**作者：囧森Jonshon**
+> 14 篇敏捷开发实战文章，源自 15 年软件开发与敏捷/Scrum 实践。讲透敏捷的价值观、Scrum、迭代、估算与工程实践。
 
-📖 **在线阅读** → [`build/wiki.html`](./build/wiki.html)（单页导航，可部署为 GitHub Pages）
+**Agile Development in Practice · 14 Lectures**
+
+作者：**囧森Jonshon**
+
+📖 **在线阅读** → <https://dlooto.github.io/agile-dev-14-lectures/>
 
 ---
 
-## 这本书是什么
+## ✨ 特性
 
-2019 年，我在公众号「悬想录」上陆续写了 16 篇敏捷研发系列文章。这本书把它们重新梳理成 **14 讲**，按「理念 → Scrum → 迭代 → 估算会议 → 实践 → 视频讲义」编排，另附一篇扩展阅读与两篇附录。
+- **14 讲实战**：从理念、Scrum、迭代、估算到工程实践，系统覆盖敏捷开发全流程
+- **真实案例**：15 年带队踩坑记录——「套路先行还是干了再说」的两难、「招聘流程」一词之差引发的返工、Python 与 Java 编码风格之争
+- **开箱即用**：附一份简易 Scrum 流程规范示例、视频清单、推荐书单
+- **全开源**：Markdown 源 + 构建脚本，可直接复用搭建你自己的知识库
 
-它不是敏捷的教科书，而是一个程序员 + 带队者十几年踩坑的真实记录：有「套路先行还是干了再说」的两难，有「招聘流程」一词之差引发的返工，也有 Python 与 Java 编码风格之争。
+## 📖 目录
 
-## 目录
+第一部分 · 敏捷理念与价值观
+第二部分 · Scrum 与迭代
+第三部分 · 估算与会议
+第四部分 · 实践与案例
+第五部分 · 视频讲义
 
-**第一部分 · 敏捷理念与价值观**
+完整 14 讲目录见 [`outline.md`](./outline.md)。
 
-1. 敏捷，套路先行还是干了再说？
-2. 敏捷，习惯的力量
-3. 理解敏捷故事，需要先知道这些概念
-4. 敏捷中的规范，是约定还是强制执行？
-
-**第二部分 · Scrum 与迭代**
-
-5. Scrum，一个橄榄球术语为何颠覆性地改变了软件行业？
-6. 敏捷迭代：迭代之前
-7. 敏捷迭代：我们怎样进行研发迭代？
-8. 敏捷迭代：一份简易 Scrum 流程规范示例
-9. 敏捷规划与帕金森定律
-
-**第三部分 · 估算与会议**
-
-10. Mike Cohn 谈敏捷估算：使用「水桶方法」估算工作量
-11. Mike Cohn 谈 Daily Scrum：你还在开没用的早会吗？
-
-**第四部分 · 实践与案例**
-
-12. 一个普通程序员的「极简」敏捷开发实践史
-
-**第五部分 · 视频讲义**
-
-13. 「敏捷开发」难道是教条主义？
-14. 敏捷 Scrum 与团队角色，也谈敏捷的工程中心主义
-
-**扩展阅读 + 附录**（视频清单、推荐书单）
-
-## 适合谁读
-
-- 正在或准备在团队里推行敏捷的**技术管理者**
-- 对敏捷好奇、想了解**真实工程现场**的工程师
-- 想从「别人的踩坑」里少走弯路的**实践者**
-
-## 快速开始
+## 🚀 快速开始
 
 | 方式 | 入口 |
 |---|---|
-| 在线阅读（单页导航） | [`build/wiki.html`](./build/wiki.html)，可部署为 GitHub Pages |
-| 阅读 Markdown 源 | [`chapters/`](./chapters)，GitHub 原生渲染 |
+| 在线阅读（wiki 样式） | <https://dlooto.github.io/agile-dev-14-lectures/> |
+| Markdown 源 | [`chapters/`](./chapters) |
 
-> 本书的 Markdown 源全开源，你可以直接复用这套结构来搭建**你自己的知识库**。
+## 👤 关于作者
 
-## 关于作者
+**囧森Jonshon** — 软件工程师、前敏捷研发教练。关注敏捷方法实施、软件研发效率与团队协作。
 
-**囧森Jonshon** — 软件工程师、架构师、前敏捷研发教练，15 年+ 开发经验。
+当前业务领域：AI 工作流落地与实施、FDE，帮助企业及个人将 AI 导入生产、生活。
 
 - 公众号：悬想录（ID: muskie_lance）
 - X/Twitter：[@realjonshon](https://x.com/realjonshon)
 - Bilibili：[囧森Jonshon](https://space.bilibili.com/384457515)
 
-## 许可证
+## 📄 许可证
 
-本书采用 [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh) 许可证。允许免费阅读与分享（需署名），**禁止商业使用与修改后分发**。
+[CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) — 允许免费阅读与分享（需署名），禁止商业使用与修改后分发。
 
 © 2026 囧森Jonshon · 保留所有权利
